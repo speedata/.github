@@ -9,6 +9,10 @@ Most of what you'll find on this page exists because we needed it ourselves whil
 building our main product, the **speedata Publisher**. We open-sourced the pieces
 that we thought others might find useful too.
 
+> **Looking for the big picture?** [**constellation.speedata.de**](https://constellation.speedata.de)
+> is an interactive map of all our open source projects around PDF, typesetting and
+> publishing — showing how the pieces below fit together.
+
 ---
 
 ## speedata Publisher
